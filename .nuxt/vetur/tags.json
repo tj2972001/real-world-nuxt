@@ -1,0 +1,14 @@
+{
+  "EventCard": {
+    "description": "Auto imported from components/EventCard.vue"
+  },
+  "LazyEventCard": {
+    "description": "Auto imported from components/EventCard.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "LazyNavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  }
+}
